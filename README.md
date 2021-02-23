@@ -9,8 +9,7 @@
 ### 🇰🇷 🇺🇸
 
 ### 👽 Titles
-- Growth/Data Engineer
-- Class101
+- Data Engineer
 - Web/Data Enthusiast
 
 ### 📊 Stats
