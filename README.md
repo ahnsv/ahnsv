@@ -5,6 +5,7 @@
 
 ![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&logo=linkedin&message=visit&style=social&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhumphrey-ahn%2F)
 ![GitHub followers](https://img.shields.io/github/followers/ahnsv?style=social)
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/ahnsv/my-stack)
 
 ### 🇰🇷 🇺🇸
 
